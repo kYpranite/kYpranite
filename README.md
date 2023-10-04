@@ -1,5 +1,4 @@
-### Hi there 👋
-# I'm Ethan Huang
+# Hi there,  I'm Ethan Huang
 I am a first-year student at UCLA.
 
 ### My Projects

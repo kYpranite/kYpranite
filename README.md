@@ -1,5 +1,5 @@
 # Hi there,  I'm Ethan Huang
-I am a first-year student at UCLA.
+I am a Computer Science student at UCLA.
 
 ### Some Projects
 - ⭐ [Starfield](https://github.com/kYpranite/StarField) - A web app that uses machine learning to tell you the best times and places for stargazing is in the near future.
